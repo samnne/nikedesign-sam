@@ -1,4 +1,4 @@
-import TheButton from "../components/theButton";
+import TheButton from "../components/NewButton.jsx";
 const Subscribe = () => {
   return (
     <section

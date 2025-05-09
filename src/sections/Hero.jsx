@@ -1,6 +1,6 @@
 import { arrowRight } from "../assets/icons";
 import { bigShoe1 } from "../assets/images";
-import TheButton from "../components/theButton";
+import TheButton from "../components/NewButton.jsx";
 import { shoes, statistics } from "../constants";
 import ShoeCard from "../components/ShoeCard";
 

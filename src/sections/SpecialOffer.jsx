@@ -1,6 +1,6 @@
 import { arrowRight } from "../assets/icons";
 import { offer } from "../assets/images";
-import TheButton from "../components/theButton";
+import TheButton from "../components/NewButton.jsx";
 const SpecialOffer = () => {
   return (
     <section className="flex justify-center items-center max-container max-xl:flex-col-reverse gap-10">
